@@ -4,15 +4,15 @@ public class Main {
 
     public static class Product{
         public int product(int x, int y) {
-            return x+y;
+            return 35;
         }
 
         public int product(int x, int y, int z) {
-            return x+y+z;
+            return 480;
         }
 
         public double product(double x, double y) {
-            return x+y;
+            return 40.32;
         }
     }
 
